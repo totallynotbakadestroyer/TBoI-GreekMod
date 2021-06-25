@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items" version="1">
+  <passive cache="speed" name="Hermes Sandals" description="gotta go fast" gfx="collectibles_hermes_sandals.png"/>
+  <active name="Medusa Head" description="placeholder" gfx="collectibles_medusa_head.png" maxCharges="6"/>
+</items>
